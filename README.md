@@ -4,5 +4,6 @@ Hi, I’m @andrewbadge
 - You can reach me on [LinkedIn](https://www.linkedin.com/in/andrewbadge/)
 
 I live in Melbourne Australia with my family and Frank the Bulldog
-[Frank](https://github.com/andrewbadge/andrewbadge/blob/main/Images/Frank.png)
+
+![Frank](https://github.com/andrewbadge/andrewbadge/blob/main/Images/Frank.png)
 
