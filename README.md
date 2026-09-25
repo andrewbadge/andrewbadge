@@ -4,7 +4,7 @@ Hi, I’m @andrewbadge
 - Skilled in Cloud, Data Centre Builds, Architecture, Integrations, Web, Web Apps, Desktop, Service Management, Software Development
 - You can reach me on [LinkedIn](https://www.linkedin.com/in/andrewbadge/)
 
-I live in Melbourne Australia. I have two teenagers and Boris the spoodle. Frank the bulldog is also featured the photos.
+I live in Melbourne Australia. I have two teenagers and **Boris** the spoodle. Frank the bulldog is also featured the photos.
 
 ![Frank](https://github.com/andrewbadge/andrewbadge/blob/main/Images/Frank.png)
 
